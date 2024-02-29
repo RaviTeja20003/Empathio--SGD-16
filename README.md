@@ -2,7 +2,7 @@
 
 [Link to UN Page regarding Gaza](https://news.un.org/en/story/2024/02/1146997)
 
-[Link to UNICEF Page regarding GAZA](https://www.unicef.org/emergencies/children-gaza-need-lifesaving-support)
+[Link to UNICEF Page regarding GAZA for Fundraising](https://www.unicef.org/emergencies/children-gaza-need-lifesaving-support)
 
 This project harnesses Google's Gemini AI to create multimedia narratives that inspire hope and raise funds for children and individuals affected by conflict, while also prioritizing mental health support. Through partnerships with organizations like UNICEF and potential deployments with NGOs such as the Red Cross, it aims to scale its impact globally. By implementing GAN-inspired architecture and GEMINI Vision, the project ensures safe content generation, safeguarding identities and adhering to UN Child Rights Convention standards, thus fostering resilience in conflict zones.
 
